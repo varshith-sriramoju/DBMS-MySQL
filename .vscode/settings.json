@@ -10,8 +10,8 @@
             "server": "localhost",
             "port": 33060,
             "driver": "MySQL",
-            "name": "VSCode_MySQL",
-            "database": "vscode",
+            "name": "code",
+            "database": "learning",
             "username": "root",
             "password": "root",
             "connectionTimeout": 30
